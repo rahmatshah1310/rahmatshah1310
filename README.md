@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on instagram clone.
+I am currently working on nodejs and nextjs.
 
 
 ## 🌐 Socials:
