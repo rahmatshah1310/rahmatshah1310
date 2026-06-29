@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on nodejs and nextjs.
+I work with cloud infrastructure and backend technologies, including AWS, Hyperstack servers, Typesense, and Node.js.
 
 
 ## 🌐 Socials:
